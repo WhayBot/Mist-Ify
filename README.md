@@ -4,12 +4,12 @@ Automated mushroom cultivation control system based on ESP32 with a web dashboar
 
 ## Features
 
-- **Automated Humidity Control** — Water pump + mist maker with state machine
-- **Web Dashboard** — Real-time monitoring, 24-hour chart, event log
-- **WiFi AP Setup** — WiFi configuration without hardcoding
-- **OTA Update** — Firmware update via WiFi (Arduino IDE or web upload)
-- **Manual Override** — Manual control of pump and mist maker via web
-- **Safety Alarm** — Buzzer alarm if mist maker timeouts after 5 minutes
+- **Automated Humidity Control** - Water pump + mist maker with state machine
+- **Web Dashboard** - Real-time monitoring, 24-hour chart, event log
+- **WiFi AP Setup** - WiFi configuration without hardcoding
+- **OTA Update** - Firmware update via WiFi (Arduino IDE or web upload)
+- **Manual Override** - Manual control of pump and mist maker via web
+- **Safety Alarm** - Buzzer alarm if mist maker timeouts after 5 minutes
 
 ## Components
 
