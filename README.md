@@ -15,7 +15,7 @@ Automated mushroom cultivation control system based on ESP32 with a web dashboar
 
 | Component | Qty | Connection |
 |-----------|-----|------------|
-| ESP32 DOIT DevKit V1 | 1 | — |
+| ESP32 DOIT DevKit V1 | 1 | - |
 | MOSFET Module (IRLZ44N) | 2 | SIG→GPIO25/26 |
 | DHT22 (3-pin module) | 1 | DAT→GPIO4, VCC→3.3V |
 | LCD 16x2 I2C | 1 | SDA→GPIO21, SCL→GPIO22 |
